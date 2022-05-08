@@ -1,7 +1,7 @@
 # Basic concepts
 
 <div style="display: flex; justify-content: center">
- <img src="https://user-images.githubusercontent.com/45085894/167320621-1148f3f6-0850-4095-a048-32a4e1fdf9fb.png"  alt=""/>
+ <img src="https://user-images.githubusercontent.com/45085894/167320726-4736e123-462c-4f00-954e-a94d59afe0b8.png"  alt=""/>
 </div>
 
 ## Observables
