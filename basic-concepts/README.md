@@ -1,5 +1,9 @@
 # Basic concepts
 
+<div style="display: flex; justify-content: center">
+ <img src="https://user-images.githubusercontent.com/45085894/167320621-1148f3f6-0850-4095-a048-32a4e1fdf9fb.png"  alt=""/>
+</div>
+
 ## Observables
 
 Observables are a stream or a data source. It's often an **unicast** structure that can provide
