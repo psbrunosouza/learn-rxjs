@@ -17,6 +17,8 @@ Perform a filter on a source of data to return only filtered data.
 merge two data sources to return a new mapped data source
 <a href="https://github.com/psbrunosouza/learn-rxjs/tree/main/operators/src/transformation/merge-map/index.js">Example here!</a>
 
+## Join
+
 ### forkJoin
 
 join two data sources to return a new data source
